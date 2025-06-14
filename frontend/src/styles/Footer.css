@@ -1,0 +1,13 @@
+.footer {
+  display: none; /* Hide the footer completely */
+}
+
+.footer a {
+  color: #4a9eff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer a:hover {
+  color: #77b6ff;
+}
